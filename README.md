@@ -1,4 +1,4 @@
-# FPS Multiplayer Game Constructed in Unity and Supported with Proton and Docker
+# FPS Multiplayer Game Constructed in Unity and Supported with Photon Pun 2 and Docker
 
 This is an FPS game that can be played with friends, not locally, but with everyone using their own computers. It was constructed in Unity, and for data gathering and server management, Docker containers were used as TCP and UDP servers to gather login data or simple information stored within some text files.
 
