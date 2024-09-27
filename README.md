@@ -27,7 +27,7 @@ This project was made possible through the collaborative efforts of the followin
 3. Sebastian Avilez
    - GitHub: [@SebastianAz](https://github.com/0247473)
 
-We appreciate the hard work and dedication of each team member in bringing this project to life. Their diverse skills and perspectives were instrumental in creating this TCP and UDP server for our Unity multiplayer game.
+We appreciate the hard work and dedication of each team member in bringing this project to life. Their diverse skills and perspectives were instrumental in creating Unity multiplayer game.
 
 ## License
 
